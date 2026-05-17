@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-inspect.
+
 # think-inspect
 [![Build Status](https://img.shields.io/travis/thinkjs/think-inspect/master.svg?style=flat-square)](https://travis-ci.org/thinkjs/think-inspect)
 [![Coverage Status](https://img.shields.io/coveralls/thinkjs/think-inspect/master.svg?style=flat-square)](https://coveralls.io/github/thinkjs/think-inspect?branch=master)
